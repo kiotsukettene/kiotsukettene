@@ -16,7 +16,7 @@ const kiotsukettene = {
     code: ["Java", "C#", "JavaScript", "Spring Boot", "Laravel", ".NET"],
     currentFocus: "Backend Development & Artificial Intelligence",
     challenge: "Building scalable applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I love League of Legends, Valorant, and Gym 🤓"
 };
 ```
 
