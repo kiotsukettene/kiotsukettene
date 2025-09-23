@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **kiotsukettene**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Backend+Developer+Intern;Aspiring+Software+Engineer;SpringBoot+%26+Laravel+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Backend+Developer;Aspiring+Software+Engineer;SpringBoot+%26+Laravel+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
