@@ -16,7 +16,7 @@ const kiotsukettene = {
     code: ["Java", "C#", "JavaScript", "Spring Boot", "Laravel", ".NET"],
     currentFocus: "Backend Development & Artificial Intelligence",
     challenge: "Building scalable applications",
-    funFact: "I love League of Legends, Valorant, and Gym 🤓"
+    funFact: "I love League of Legends, Valorant, and Gym "
 };
 ```
 
