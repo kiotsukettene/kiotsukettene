@@ -14,7 +14,7 @@
 const kiotsukettene = {
     pronouns: "he" | "him",
     code: ["Java", "C#", "JavaScript", "Spring Boot", "Laravel", ".NET"],
-    currentFocus: "Backend Development & Artificial Intelligence",
+    currentFocus: "Backend Development, DevOps and AI",
     challenge: "Building scalable applications",
     funFact: "I love League of Legends, Valorant, and Gym "
 };
