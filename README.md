@@ -17,7 +17,7 @@
 - 💡 **Passionate about:** Clean code, scalable architecture, and problem-solving
 - 🎮 **When not coding:** Gaming, reading tech blogs, and exploring new frameworks
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Skills
 
 <div align="center">
 
