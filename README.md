@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm **kiotsukettene**
+# 👋 Hey there! I'm **Russell**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Backend+Developer;Aspiring+Software+Engineer;SpringBoot+%26+Laravel+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 
