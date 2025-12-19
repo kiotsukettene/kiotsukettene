@@ -15,7 +15,7 @@
 - 🌱 **Learning:** SpringBoot & Laravel
 - 👯 **Goal:** Becoming a Full-Stack Software Engineer
 - 💡 **Passionate about:** Clean code, scalable architecture, and problem-solving
-- 🎮 **When not coding:** Gaming, reading tech blogs, and exploring new frameworks
+- 🎮 **When not coding:** Gaming, watching anime, and exploring new frameworks
 
 ## 🛠️ Tech Skills
 
