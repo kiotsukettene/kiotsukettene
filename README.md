@@ -11,9 +11,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8cc47.gif">
 
 ### 🎯 Current Journey
-- 🔭 **Working as:** Backend Developer Intern
-- 🌱 **Learning:** SpringBoot & Laravel
-- 👯 **Goal:** Becoming a Full-Stack Software Engineer
+- 🔭 **Working as:** Software Engineer
+- 🌱 **Learning:** SpringBoot, Laravel, & NodeJS
+- 👯 **Goal:** Become a Cloud System Engineer / DevOps Engineer
 - 💡 **Passionate about:** Clean code, scalable architecture, and problem-solving
 - 🎮 **When not coding:** Gaming, watching anime, and exploring new frameworks
 
